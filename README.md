@@ -5,7 +5,8 @@
 
 ## Synopsis:
 
-	Using data supplied by BootCampSpot of bank customer records determine whether they should be placed into healthy loan or high-risk loan categories.
+-	Using data supplied by BootCampSpot of bank customer records determine whether
+ 	they should be placed into healthy loan or high-risk loan categories.
 
 ## Analysis:
 -	Using given information of loan_size, interest_rate, borrower_income, debt_to_income, num_of_accounts,
@@ -40,7 +41,7 @@
 
 ## Summary
 
-	 The model overall accurately predicted loan_status based on given data. It was significantly
+-	 The model overall accurately predicted loan_status based on given data. It was significantly
 	 better at predicting healthy loan (0 status) than high-risk (1 status). While the F1 score of .88
 	 is still indicates a fairly high accuracy for the high_risk status I would recommend testing other
 	 models to see if the accuracy here could be improved. Considering that the bank is most likely more
