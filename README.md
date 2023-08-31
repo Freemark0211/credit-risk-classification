@@ -5,7 +5,7 @@
 
 ## Synopsis:
 
--	Using data supplied by BootCampSpot of bank customer records determine whether
+	Using data supplied by BootCampSpot of bank customer records determine whether
  	they should be placed into healthy loan or high-risk loan categories.
 
 ## Analysis:
